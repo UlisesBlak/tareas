@@ -1,0 +1,4 @@
+﻿  Listas Enlazadas.cpp
+C:\Users\Alumno\Desktop\German\Listas Enlazadas\Listas Enlazadas\Listas Enlazadas.cpp(39,1): error C2059: error de sintaxis: 'while'
+C:\Users\Alumno\Desktop\German\Listas Enlazadas\Listas Enlazadas\Listas Enlazadas.cpp(41,1): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\Alumno\Desktop\German\Listas Enlazadas\Listas Enlazadas\Listas Enlazadas.cpp(41,1): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)

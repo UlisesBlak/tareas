@@ -1,0 +1,3 @@
+﻿  Operadores_Uli.cpp
+C:\Users\Alumno\Desktop\German\Operadores_Uli\Operadores_Uli\Operadores_Uli.cpp(3,8): error C2006: "#using": se esperaba "FILENAME" o <FILENAME>
+C:\Users\Alumno\Desktop\German\Operadores_Uli\Operadores_Uli\Operadores_Uli.cpp(3,8): fatal  error C1190: No se encontró System::Object. ¿Falta la opción /clr o la importación de ensamblados estándar?

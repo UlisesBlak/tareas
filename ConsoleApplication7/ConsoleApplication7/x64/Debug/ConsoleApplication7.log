@@ -1,0 +1,8 @@
+﻿  ConsoleApplication7.cpp
+C:\Users\Alumno\Desktop\German\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(19,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\German\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(26,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\German\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(53,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Alumno\Desktop\German\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(75,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Alumno\Desktop\German\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(77,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Alumno\Desktop\German\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(112,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Alumno\Desktop\German\ConsoleApplication7\ConsoleApplication7\ConsoleApplication7.cpp(70,7): warning C4101: 'opcionBlue': variable local sin referencia

@@ -1,0 +1,9 @@
+﻿  Operadores_aritmeticos.cpp
+C:\Users\Alumno\Desktop\German\Operadores_aritmeticos\Operadores_aritmeticos.cpp(42,14): error C2143: error de sintaxis: falta ';' delante de 'std::cout'
+C:\Users\Alumno\Desktop\German\Operadores_aritmeticos\Operadores_aritmeticos.cpp(43,86): error C2653: 'cout': no es un nombre de clase o espacio de nombres
+C:\Users\Alumno\Desktop\German\Operadores_aritmeticos\Operadores_aritmeticos.cpp(43,92): error C2065: 'endl': identificador no declarado
+C:\Users\Alumno\Desktop\German\Operadores_aritmeticos\Operadores_aritmeticos.cpp(44,84): error C2653: 'cout': no es un nombre de clase o espacio de nombres
+C:\Users\Alumno\Desktop\German\Operadores_aritmeticos\Operadores_aritmeticos.cpp(44,90): error C2065: 'endl': identificador no declarado
+C:\Users\Alumno\Desktop\German\Operadores_aritmeticos\Operadores_aritmeticos.cpp(45,79): error C2653: 'cout': no es un nombre de clase o espacio de nombres
+C:\Users\Alumno\Desktop\German\Operadores_aritmeticos\Operadores_aritmeticos.cpp(45,85): error C2065: 'endl': identificador no declarado
+C:\Users\Alumno\Desktop\German\Operadores_aritmeticos\Operadores_aritmeticos.cpp(49,1): error C2059: error de sintaxis: '}'
